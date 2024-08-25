@@ -38,12 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Edudevmath/Edudevmath/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="https://open.spotify.com/user/31v74szal6owuilowlxuolrpcpyi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v74szal6owuilowlxuolrpcpyi&count=5" alt="Spotify recently played"  />
