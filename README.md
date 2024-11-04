@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/s/meme/Waiting-Skeleton.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
