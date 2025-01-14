@@ -74,4 +74,3 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoreise&show_icons=true&locale=en" alt="eduardoreise" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoreise&" alt="eduardoreise" /></p>
